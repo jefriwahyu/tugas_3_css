@@ -1,0 +1,36 @@
+p {
+  background-color: gray;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+.p_satu {
+  background-color: #C96E00;
+  border-style: solid none solid none;
+  border-width: 1.3px;
+  font-size: 15px;
+}
+
+.p_dua {
+  background-color: blue;
+  border-style: solid;
+  border-width: 1.3px;
+  color: white;
+  font-size: 15px;
+}
+
+.p_tiga {
+  font-family: monospace;
+  font-size: 23px;
+  background-color: white;
+  border-style: groove;
+}
+
+.p_empat {
+  border-top: solid;
+  border-width: 1px;
+  font-size: 22px;
+  font-weight: bold;
+}
